@@ -1,6 +1,5 @@
-# 📘 JavaScript Fundamentals – Practice Exercises
+# 📘 Sprint2.1: Basic JavaScript exercises
 
-Sprint2.1: Basic JavaScript exercises
 This repository includes the practical JavaScript exercises completed during **Sprint 2.1** at ITACADEMY.
 
 ## 📁 Project Structure
