@@ -1,3 +1,4 @@
+//setTimeout function
 function passarTemps(){
     const mostrarMissatge = () => {
         setTimeout(() => {
