@@ -1,4 +1,4 @@
-# 📘 Sprint2.1: Basic JavaScript exercises
+# 📘 Sprint 2.1: Basic JavaScript exercises
 
 This repository includes the practical JavaScript exercises completed during **Sprint 2.1** at ITACADEMY.
 
